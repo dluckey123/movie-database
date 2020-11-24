@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dluckey123/moviedatabase/issues"
   },
-  "homepage": "https://github.com/dluckey123/moviedatabase#readme"
+  "homepage": "https://github.com/dluckey123/moviedatabase#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
